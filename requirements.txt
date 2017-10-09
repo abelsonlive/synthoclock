@@ -1,4 +1,4 @@
 requests
 beautifulsoup4
 tweepy
-pyyaml
+pyyamlrequests-oauthlib
