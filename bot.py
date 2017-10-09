@@ -95,5 +95,5 @@ if __name__ == '__main__':
   sc = SynthOClock(**config)
   if sys.argv[1] == 'simulate':
     sc.simulate()
-  elif sys.argv[1] == 'run'
+  elif sys.argv[1] == 'run':
     sc.run()
