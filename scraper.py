@@ -46,7 +46,7 @@ def extract_time(name):
     t = t.replace(p, '')
 
   # check for appropriate length
-  if len(t) not in [1,3,4]:
+  if len(t) not in [1,2,3,4]:
     return None
 
   # check for appropriate size
@@ -56,7 +56,10 @@ def extract_time(name):
   if int(t[-2:]) >= 60 or int(t[-2:]) == 0:
     return None
 
-  if len(t) == 1:
+  if len(t) == 2 and int(t) > 12:
+    return None
+
+  if len(t) in [1,2]:
     t += "00"
 
   return t

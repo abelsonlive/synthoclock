@@ -1,4 +1,5 @@
 url,name,img,time
+http://www.vintagesynth.com/akai/s01.php,Akai S01,http://www.vintagesynth.com/sites/default/files/2017-05/akais01.jpg,100
 http://www.vintagesynth.com/akai/s612.php,Akai S612,http://www.vintagesynth.com/sites/default/files/2017-05/s612.jpg,612
 http://www.vintagesynth.com/misc/andromeda.php,Alesis Andromeda A6,http://www.vintagesynth.com/sites/default/files/2017-05/alesis_andromeda_a6.jpg,600
 http://www.vintagesynth.com/misc/d4.php,Alesis D4,http://www.vintagesynth.com/sites/default/files/2017-05/alesis_d4.jpg,400
@@ -11,11 +12,11 @@ http://www.vintagesynth.com/arp/odyssey.php,ARP Odyssey 1,http://www.vintagesynt
 http://www.vintagesynth.com/arp/omni.php,ARP Omni Mk 1,http://www.vintagesynth.com/sites/default/files/2017-05/omni1.jpg,100
 http://www.vintagesynth.com/misc/retroas1.php,BitHeadz Retro AS-1,http://www.vintagesynth.com/sites/default/files/2017-05/retroas1.jpg,100
 http://www.vintagesynth.com/misc/unityds1.php,BitHeadz Unity DS-1,http://www.vintagesynth.com/sites/default/files/2017-05/unityds1.jpg,100
-http://www.vintagesynth.com/roland/dr110.php,Boss DR-110,http://www.vintagesynth.com/sites/default/files/2017-05/dr110-1.jpg,110
-http://www.vintagesynth.com/roland/dr202.php,Boss DR-202,http://www.vintagesynth.com/sites/default/files/2017-05/dr202.jpg,202
-http://www.vintagesynth.com/roland/sp202.php,Boss SP-202,http://www.vintagesynth.com/sites/default/files/2017-05/sp202.jpg,202
-http://www.vintagesynth.com/roland/sp303.php,Boss SP-303,http://www.vintagesynth.com/sites/default/files/2017-05/sp303.jpg,303
-http://www.vintagesynth.com/roland/sp505.php,Boss SP-505,http://www.vintagesynth.com/sites/default/files/2017-05/sp505.jpg,505
+http://www.vintagesynth.com/roland/dr110.php,BOSS DR-110,http://www.vintagesynth.com/sites/default/files/2017-05/dr110-1.jpg,110
+http://www.vintagesynth.com/roland/dr202.php,BOSS DR-202,http://www.vintagesynth.com/sites/default/files/2017-05/dr202.jpg,202
+http://www.vintagesynth.com/roland/sp202.php,BOSS SP-202,http://www.vintagesynth.com/sites/default/files/2017-05/sp202.jpg,202
+http://www.vintagesynth.com/roland/sp303.php,BOSS SP-30,http://www.vintagesynth.com/sites/default/files/2017-05/sp303.jpg,303
+http://www.vintagesynth.com/roland/sp505.php,BOSS SP-505,http://www.vintagesynth.com/sites/default/files/2017-05/sp505.jpg,505
 http://www.vintagesynth.com/casio/ct101.php,Casio CT-101,http://www.vintagesynth.com/sites/default/files/2017-05/casio_ct101.jpg,101
 http://www.vintagesynth.com/casio/ct401.php,Casio CT-401,http://www.vintagesynth.com/sites/default/files/2017-05/casio_ct401.jpg,401
 http://www.vintagesynth.com/casio/cz1.php,Casio CZ-1,http://www.vintagesynth.com/sites/default/files/2017-05/casio_cz1.jpg,100
@@ -28,31 +29,39 @@ http://www.vintagesynth.com/casio/vz1.php,Casio VZ-1,http://www.vintagesynth.com
 http://www.vintagesynth.com/misc/ms6.php,Cheetah MS-6,http://www.vintagesynth.com/sites/default/files/2017-05/ms6.gif,600
 http://www.vintagesynth.com/clavia/nord2.php,Clavia Nord Lead 2,http://www.vintagesynth.com/sites/default/files/2017-05/clavia_nordlead2.jpg,200
 http://www.vintagesynth.com/clavia/nord3.php,Clavia Nord Lead 3,http://www.vintagesynth.com/sites/default/files/2017-05/clavia_nord_3.jpg,300
+http://www.vintagesynth.com/misc/bit01.php,Crumar Bit 01,http://www.vintagesynth.com/sites/default/files/2017-05/crumar_bit01.jpg,100
 http://www.vintagesynth.com/misc/crumards2.php,Crumar DS-2,http://www.vintagesynth.com/sites/default/files/2017-05/crumards2.jpg,200
+http://www.vintagesynth.com/dsi/p08.php,Dave Smith Instruments Prophet 8,http://www.vintagesynth.com/sites/default/files/2017-05/p08.jpg,800
 http://www.vintagesynth.com/emu/b3.php,E-mu B-3,http://www.vintagesynth.com/sites/default/files/2017-05/emu_b3.jpg,300
-http://www.vintagesynth.com/emu/mk6.php,E-mu MK-6 ,http://www.vintagesynth.com/sites/default/files/2017-05/emu_mk6.jpg,600
-http://www.vintagesynth.com/emu/mp7.php,E-mu MP-7 ,http://www.vintagesynth.com/sites/default/files/2017-05/emu_mp7.jpg,700
+http://www.vintagesynth.com/emu/mk6.php,E-mu MK-6,http://www.vintagesynth.com/sites/default/files/2017-05/emu_mk6.jpg,600
+http://www.vintagesynth.com/emu/mp7.php,E-mu MP-7,http://www.vintagesynth.com/sites/default/files/2017-05/emu_mp7.jpg,700
 http://www.vintagesynth.com/emu/orbit3.php,E-mu Orbit-3,http://www.vintagesynth.com/sites/default/files/2017-05/emu_orbit3.jpg,300
-http://www.vintagesynth.com/emu/pk6.php,E-mu PK-6 ,http://www.vintagesynth.com/sites/default/files/2017-05/pk6.jpg,600
+http://www.vintagesynth.com/emu/pk6.php,E-mu PK-6,http://www.vintagesynth.com/sites/default/files/2017-05/pk6.jpg,600
+http://www.vintagesynth.com/emu/sp12.php,E-mu SP-12,http://www.vintagesynth.com/sites/default/files/2017-05/emu_sp12.jpg,1200
 http://www.vintagesynth.com/emu/xk6.php,E-mu XK-6,http://www.vintagesynth.com/sites/default/files/2017-05/emu_xk6_angle.jpg,600
 http://www.vintagesynth.com/emu/xl7.php,E-mu XL-7,http://www.vintagesynth.com/sites/default/files/2017-05/xl7.jpg,700
 http://www.vintagesynth.com/emu/emuxl1.php,E-mu Xtreme Lead-1,http://www.vintagesynth.com/sites/default/files/2017-05/emu_xl1.jpg,100
 http://www.vintagesynth.com/misc/machinedrum.php,Elektron Machinedrum SPS-1,http://www.vintagesynth.com/sites/default/files/2017-05/machinedrum.jpg,100
 http://www.vintagesynth.com/misc/monomachine.php,Elektron Monomachine SFX-6,http://www.vintagesynth.com/sites/default/files/2017-05/monomachine-sfx60.jpg,600
 http://www.vintagesynth.com/eml/eml101.php,EML ElectroComp 101,http://www.vintagesynth.com/sites/default/files/2017-05/eml101.jpg,101
+http://www.vintagesynth.com/ensoniq/asr10.php,Ensoniq ASR-10,http://www.vintagesynth.com/sites/default/files/2017-05/ensoniq_asr10.jpg,1000
 http://www.vintagesynth.com/ensoniq/ens_esq1.php,Ensoniq ESQ-1,http://www.vintagesynth.com/sites/default/files/2017-05/ensoniq_esq1.jpg,100
 http://www.vintagesynth.com/ensoniq/sd1.php,Ensoniq SD-1,http://www.vintagesynth.com/sites/default/files/2017-05/ensoniq_sd1.jpg,100
+http://www.vintagesynth.com/index.php/ensoniq/ts10_ts12.php,Ensoniq TS-12,,1000
 http://www.vintagesynth.com/misc/gem_s.php,Generalmusic (GEM) S2,http://www.vintagesynth.com/sites/default/files/2017-05/s2turbo.jpg,200
+http://www.vintagesynth.com/misc/mwt01.php,Horst MWT-01,http://www.vintagesynth.com/sites/default/files/2017-05/Horst_Midi_Theremin.jpg,100
 http://www.vintagesynth.com/misc/st2.php,IK Multimedia SampleTank 2,http://www.vintagesynth.com/sites/default/files/2017-05/box_xl.jpg,200
 http://www.vintagesynth.com/misc/ss2.php,IK Multimedia Sonik Synth 2,http://www.vintagesynth.com/sites/default/files/2017-05/ss2.jpg,200
+http://www.vintagesynth.com/misc/xbase09.php,JoMoX XBase 09,http://www.vintagesynth.com/sites/default/files/2017-05/jomox_xbase09.jpg,900
 http://www.vintagesynth.com/kawai/kawaik1ii.php,Kawai K1,http://www.vintagesynth.com/sites/default/files/2017-05/k1_ii.jpg,100
-http://www.vintagesynth.com/kawai/kawaik1.php,Kawai K1m,http://www.vintagesynth.com/sites/default/files/2017-05/kawai_k1_angle2.jpg,100
+http://www.vintagesynth.com/kawai/kawaik1.php,Kawai K1,http://www.vintagesynth.com/sites/default/files/2017-05/kawai_k1_angle2.jpg,100
 http://www.vintagesynth.com/kawai/kawaik3.php,Kawai K3,http://www.vintagesynth.com/sites/default/files/2017-05/k3.jpg,300
-http://www.vintagesynth.com/kawai/kawaik4.php,Kawai K4r,http://www.vintagesynth.com/sites/default/files/2017-05/k4.jpg,400
-http://www.vintagesynth.com/kawai/kawaik5.php,Kawai K5m,http://www.vintagesynth.com/sites/default/files/2017-05/k5.jpg,500
+http://www.vintagesynth.com/kawai/kawaik4.php,Kawai K4,http://www.vintagesynth.com/sites/default/files/2017-05/k4.jpg,400
+http://www.vintagesynth.com/kawai/kawaik5.php,Kawai K5,http://www.vintagesynth.com/sites/default/files/2017-05/k5.jpg,500
 http://www.vintagesynth.com/kawai/sx210.php,Kawai SX-210,http://www.vintagesynth.com/sites/default/files/2017-05/sx210.jpg,210
 http://www.vintagesynth.com/kawai/kawai_sx240.php,Kawai SX-240,http://www.vintagesynth.com/sites/default/files/2017-05/kawai_sx240_new.jpg,240
 http://www.vintagesynth.com/kawai/xd5.php,Kawai XD-5,http://www.vintagesynth.com/sites/default/files/2017-05/kawai_xd5.jpg,500
+http://www.vintagesynth.com/korg/01w.php,Korg 01,http://www.vintagesynth.com/sites/default/files/2017-05/01wfd.jpg,100
 http://www.vintagesynth.com/korg/korg_707.php,Korg 707,http://www.vintagesynth.com/sites/default/files/2017-05/korg_707.jpg,707
 http://www.vintagesynth.com/korg/ddd1.php,Korg DDD-1,http://www.vintagesynth.com/sites/default/files/2017-05/korg_ddd1_angle2.jpg,100
 http://www.vintagesynth.com/korg/ddd5.php,Korg DDD-5,http://www.vintagesynth.com/sites/default/files/2017-05/korg_ddd5.jpg,500
@@ -69,13 +78,15 @@ http://www.vintagesynth.com/korg/esx1.php,Korg ESX-1,http://www.vintagesynth.com
 http://www.vintagesynth.com/korg/kp3.php,Korg KP1,http://www.vintagesynth.com/sites/default/files/2017-05/kaosspad.jpg,100
 http://www.vintagesynth.com/korg/m1.php,Korg M1,http://www.vintagesynth.com/sites/default/files/2017-05/korg_m1.jpg,100
 http://www.vintagesynth.com/korg/r3.php,Korg R3,http://www.vintagesynth.com/sites/default/files/2017-05/korg_r3_angle.jpg,300
+http://www.vintagesynth.com/korg/symphony-03,Korg Symphony-03,http://www.vintagesynth.com/sites/default/files/2017-06/korg-03-symphony-orchestra.jpg,300
+http://www.vintagesynth.com/korg/vc10.php,Korg VC-10,http://www.vintagesynth.com/sites/default/files/2017-05/korg_vc10.jpg,1000
 http://www.vintagesynth.com/korg/x3.php,Korg X3,http://www.vintagesynth.com/sites/default/files/2017-05/x3.jpg,300
-http://www.vintagesynth.com/korg/x5d.php,Korg X5D,http://www.vintagesynth.com/sites/default/files/2017-05/x5d.jpg,500
+http://www.vintagesynth.com/korg/x5d.php,Korg X5,http://www.vintagesynth.com/sites/default/files/2017-05/x5d.jpg,500
 http://www.vintagesynth.com/korg/z1.php,Korg Z1,http://www.vintagesynth.com/sites/default/files/2017-05/korg_z1.jpg,100
 http://www.vintagesynth.com/kurzweil/k150.php,Kurzweil K150,http://www.vintagesynth.com/sites/default/files/2017-05/k150synth.jpg,150
 http://www.vintagesynth.com/kurzweil/k250.php,Kurzweil K250,http://www.vintagesynth.com/sites/default/files/2017-05/kurzweil_k250.jpg,250
 http://www.vintagesynth.com/misc/sylenth1.php,Lennar Digital Sylenth 1,http://www.vintagesynth.com/sites/default/files/2017-05/lennardigital-sylenth1.jpg,100
-http://www.vintagesynth.com/linn/linn.php,Linn  LM-1,http://www.vintagesynth.com/sites/default/files/2017-05/linn_drum.jpg,100
+http://www.vintagesynth.com/linn/linn.php,Linn Electronics LM-1,http://www.vintagesynth.com/sites/default/files/2017-05/linn_drum.jpg,100
 http://www.vintagesynth.com/misc/mamadx1.php,MAM ADX1,http://www.vintagesynth.com/sites/default/files/2017-05/mam_adx1_blue.jpg,100
 http://www.vintagesynth.com/misc/marion_msr2.php,Marion Systems MSR-2,http://www.vintagesynth.com/sites/default/files/2017-05/marion_msr2.jpg,200
 http://www.vintagesynth.com/moog/opus3.php,Moog Opus-3,http://www.vintagesynth.com/sites/default/files/2017-05/moog_opus3_angle.jpg,300
@@ -84,7 +95,9 @@ http://www.vintagesynth.com/misc/mcs_drumcomputer.php,Movement MCS Drum Computer
 http://www.vintagesynth.com/novation/dmv2.php,Novation Drum Station v2,http://www.vintagesynth.com/sites/default/files/2017-05/novation_drumstationv2.jpg,200
 http://www.vintagesynth.com/novation/ks45r.php,Novation KS4,http://www.vintagesynth.com/sites/default/files/2017-05/ks4.jpg,400
 http://www.vintagesynth.com/oberheim/dpx1.php,Oberheim DPX1,http://www.vintagesynth.com/sites/default/files/2017-05/oberheim_dpx1.jpg,100
+http://www.vintagesynth.com/oberheim/mat12.php,Oberheim Matrix 12,http://www.vintagesynth.com/sites/default/files/2017-05/oberheim_matrix12.jpg,1200
 http://www.vintagesynth.com/oberheim/mat6.php,Oberheim Matrix 6,http://www.vintagesynth.com/sites/default/files/2017-05/oberheim_matrix6_angle.jpg,600
+http://www.vintagesynth.com/oberheim/ob12.php,Oberheim OB-12,http://www.vintagesynth.com/sites/default/files/2017-05/oberheim_ob12.jpg,1200
 http://www.vintagesynth.com/oberheim/ob8.php,Oberheim OB-8,http://www.vintagesynth.com/sites/default/files/2017-05/oberheim_ob8_angle.jpg,800
 http://www.vintagesynth.com/misc/voyetra8.php,Octave Plateau Voyetra 8,http://www.vintagesynth.com/sites/default/files/2017-05/voyetra8.jpg,800
 http://www.vintagesynth.com/misc/wave.php,PPG Wave 2,http://www.vintagesynth.com/sites/default/files/2017-05/ppg_wave_23.jpg,200
@@ -94,25 +107,32 @@ http://www.vintagesynth.com/roland/d110.php,Roland D-110,http://www.vintagesynth
 http://www.vintagesynth.com/roland/d2.php,Roland D2,http://www.vintagesynth.com/sites/default/files/2017-05/d2.jpg,200
 http://www.vintagesynth.com/roland/eg101.php,Roland EG-101,http://www.vintagesynth.com/sites/default/files/2017-05/eg101.jpg,101
 http://www.vintagesynth.com/roland/em101,Roland EM-101,http://www.vintagesynth.com/sites/default/files/2017-05/EM-101-A.jpg,101
+http://www.vintagesynth.com/roland/gaia_sh01.php,Roland Gaia SH-01,http://www.vintagesynth.com/sites/default/files/2017-05/roland_gaia_sh01.jpg,100
+http://www.vintagesynth.com/roland/ajuno1.php,Roland HS-10,http://www.vintagesynth.com/sites/default/files/2017-05/roland_alpha_juno1.jpg,1000
 http://www.vintagesynth.com/roland/juno106.php,Roland Juno-106,http://www.vintagesynth.com/sites/default/files/2017-05/roland_juno106_angle.jpg,106
 http://www.vintagesynth.com/roland/juno6.php,Roland Juno-6,http://www.vintagesynth.com/sites/default/files/2017-05/roland_juno6_angle.jpg,600
 http://www.vintagesynth.com/roland/jup4.php,Roland Jupiter-4,http://www.vintagesynth.com/sites/default/files/2017-05/jup4.jpg,400
 http://www.vintagesynth.com/roland/jup6.php,Roland Jupiter-6,http://www.vintagesynth.com/sites/default/files/2017-05/roland_jupiter6.jpg,600
 http://www.vintagesynth.com/roland/jup8.php,Roland Jupiter-8,http://www.vintagesynth.com/sites/default/files/2017-05/roland_jup8.jpg,800
 http://www.vintagesynth.com/roland/jv1010.php,Roland JV-1010,http://www.vintagesynth.com/sites/default/files/2017-05/jv1010.jpg,1010
+http://www.vintagesynth.com/roland/jx10.php,Roland JX-10,http://www.vintagesynth.com/sites/default/files/2017-05/roland_super_jx10.jpg,1000
 http://www.vintagesynth.com/roland/jx305.php,Roland JX-305,http://www.vintagesynth.com/sites/default/files/2017-05/jx305.jpg,305
-http://www.vintagesynth.com/roland/jx3p.php,Roland JX-3P,http://www.vintagesynth.com/sites/default/files/2017-05/jx3p.jpg,300
-http://www.vintagesynth.com/roland/jx8p.php,Roland JX-8P,http://www.vintagesynth.com/sites/default/files/2017-05/roland_jx8p.jpg,800
+http://www.vintagesynth.com/roland/jx3p.php,Roland JX-3,http://www.vintagesynth.com/sites/default/files/2017-05/jx3p.jpg,300
+http://www.vintagesynth.com/roland/jx8p.php,Roland JX-8,http://www.vintagesynth.com/sites/default/files/2017-05/roland_jx8p.jpg,800
+http://www.vintagesynth.com/roland/mc09.php,Roland MC-09,http://www.vintagesynth.com/sites/default/files/2017-05/mc09.jpg,900
 http://www.vintagesynth.com/roland/mc303.php,Roland MC-303,http://www.vintagesynth.com/sites/default/files/2017-05/roland_mc303.jpg,303
 http://www.vintagesynth.com/roland/mc307.php,Roland MC-307,http://www.vintagesynth.com/sites/default/files/2017-05/roland_mc307_angle.jpg,307
 http://www.vintagesynth.com/roland/mc505.php,Roland MC-505,http://www.vintagesynth.com/sites/default/files/2017-05/mc505.jpg,505
 http://www.vintagesynth.com/roland/mc909.php,Roland MC-909,http://www.vintagesynth.com/sites/default/files/2017-05/mc909_top.jpg,909
+http://www.vintagesynth.com/roland/mks10.php,Roland MKS-10,http://www.vintagesynth.com/sites/default/files/2017-05/mks10.jpg,1000
 http://www.vintagesynth.com/roland/mks7.php,Roland MKS-7,http://www.vintagesynth.com/sites/default/files/2017-05/new_roland_mks7.jpg,700
 http://www.vintagesynth.com/roland/r8.php,Roland R-8,http://www.vintagesynth.com/sites/default/files/2017-05/roland_r8.jpg,800
 http://www.vintagesynth.com/korg/rhythm-330,Roland Rhythm 330,http://www.vintagesynth.com/sites/default/files/2017-09/rhythm330.png,330
+http://www.vintagesynth.com/roland/rs09.php,Roland RS-09,http://www.vintagesynth.com/sites/default/files/2017-05/roland_rs09.jpg,900
 http://www.vintagesynth.com/roland/rs-101,Roland RS-101,http://www.vintagesynth.com/sites/default/files/2017-06/RS101.jpg,101
 http://www.vintagesynth.com/roland/rs202.php,Roland RS-202,http://www.vintagesynth.com/sites/default/files/2017-05/rs202.jpg,202
 http://www.vintagesynth.com/roland/rs505.php,Roland RS-505,http://www.vintagesynth.com/sites/default/files/2017-05/rs505.jpg,505
+http://www.vintagesynth.com/roland/s10.php,Roland S-10,http://www.vintagesynth.com/sites/default/files/2017-05/s10.jpg,1000
 http://www.vintagesynth.com/roland/s220.php,Roland S-220,http://www.vintagesynth.com/sites/default/files/2017-05/s220.jpg,220
 http://www.vintagesynth.com/roland/s330.php,Roland S-330,http://www.vintagesynth.com/sites/default/files/2017-05/roland_s330.jpg,330
 http://www.vintagesynth.com/roland/sh201.php,Roland SH-201,http://www.vintagesynth.com/sites/default/files/2017-05/sh201_angle.jpg,201
@@ -128,44 +148,64 @@ http://www.vintagesynth.com/roland/808.php,Roland TR-808,http://www.vintagesynth
 http://www.vintagesynth.com/roland/909.php,Roland TR-909,http://www.vintagesynth.com/sites/default/files/2017-05/roland_tr909.jpg,909
 http://www.vintagesynth.com/roland/u110.php,Roland U-110,http://www.vintagesynth.com/sites/default/files/2017-05/roland_u110.jpg,110
 http://www.vintagesynth.com/roland/vp550.php,Roland VP-550,http://www.vintagesynth.com/sites/default/files/2017-05/vp550.jpg,550
+http://www.vintagesynth.com/roland/xp10.php,Roland XP-10,http://www.vintagesynth.com/sites/default/files/2017-05/xp10.jpg,1000
+http://www.vintagesynth.com/sci/p10.php,Sequential Circuits Prophet 10,http://www.vintagesynth.com/sites/default/files/2017-05/sci_p10.jpg,1000
 http://www.vintagesynth.com/sci/p5.php,Sequential Circuits Prophet 5,http://www.vintagesynth.com/sites/default/files/2017-05/sci_prophet5.jpg,500
 http://www.vintagesynth.com/sci/t8.php,Sequential Circuits Prophet T8,http://www.vintagesynth.com/sites/default/files/2017-05/sci_t8_angle.jpg,800
 http://www.vintagesynth.com/sci/split8.php,Sequential Circuits Split-8,http://www.vintagesynth.com/sites/default/files/2017-05/split8.jpg,800
 http://www.vintagesynth.com/sci/studio440.php,Sequential Circuits Studio 440,http://www.vintagesynth.com/sites/default/files/2017-05/studio440.jpg,440
-http://www.vintagesynth.com/misc/sherman2.php,Sherman FilterBank 2,http://www.vintagesynth.com/sites/default/files/2017-05/sherman_filterbank.jpg,200
+http://www.vintagesynth.com/misc/sherman2.php,Sherman Electronics FilterBank 2,http://www.vintagesynth.com/sites/default/files/2017-05/sherman_filterbank.jpg,200
 http://www.vintagesynth.com/misc/siel_opera6.php,Siel Opera 6,http://www.vintagesynth.com/sites/default/files/2017-05/opera6.jpg,600
 http://www.vintagesynth.com/misc/stix.php,SoundMaster Stix ST-305,http://www.vintagesynth.com/sites/default/files/2017-05/soundmasterstix.jpg,305
 http://www.vintagesynth.com/misc/lm4a.php,Steinberg LM-4,http://www.vintagesynth.com/sites/default/files/2017-05/lm4a.jpg,400
-http://www.vintagesynth.com/misc/omega8.php,Studio Electronics Omega8,http://www.vintagesynth.com/sites/default/files/2017-05/se_omega8.jpg,800
+http://www.vintagesynth.com/misc/omega8.php,Studio Electronics Omega 8,http://www.vintagesynth.com/sites/default/files/2017-05/se_omega8.jpg,800
 http://www.vintagesynth.com/misc/sx240.php,Teisco SX-240,http://www.vintagesynth.com/sites/default/files/2017-05/sx240.jpg,240
 http://www.vintagesynth.com/misc/110f.php,Teisco Synthesizer 110,http://www.vintagesynth.com/sites/default/files/2017-05/110f_0.jpg,110
+http://www.vintagesynth.com/misc/vermonaaf1.php,Vermona AF-1,http://www.vintagesynth.com/sites/default/files/2017-05/af1.jpg,100
 http://www.vintagesynth.com/misc/vermonadrm1.php,Vermona DRM-1,http://www.vintagesynth.com/sites/default/files/2017-05/vermona_drm1_mkiii.jpg,100
+http://www.vintagesynth.com/misc/vermonadaf1.php,Vermona DAF-1,http://www.vintagesynth.com/sites/default/files/2017-05/daf1.jpg,100
+http://www.vintagesynth.com/misc/ppgvst.php,Waldorf PPG Wave 2,http://www.vintagesynth.com/sites/default/files/2017-05/ppgvst.jpg,200
+http://www.vintagesynth.com/yamaha/an1x.php,Yamaha AN1,http://www.vintagesynth.com/sites/default/files/2017-05/an1x.jpg,100
+http://www.vintagesynth.com/yamaha/cs1x.php,Yamaha CS1,http://www.vintagesynth.com/sites/default/files/2017-05/cs1x.jpg,100
+http://www.vintagesynth.com/yamaha/cs2x.php,Yamaha CS2,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_cs2x.jpg,200
+http://www.vintagesynth.com/yamaha/cs6x.php,Yamaha CS6,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_cs6x.jpg,600
 http://www.vintagesynth.com/yamaha/dx1.php,Yamaha DX1,http://www.vintagesynth.com/sites/default/files/2017-05/dx1.jpg,100
+http://www.vintagesynth.com/yamaha/dx11.php,Yamaha DX11,http://www.vintagesynth.com/sites/default/files/2017-05/dx11.jpg,1100
 http://www.vintagesynth.com/yamaha/dx5.php,Yamaha DX5,http://www.vintagesynth.com/sites/default/files/2017-05/new_yamahadx5.jpg,500
 http://www.vintagesynth.com/yamaha/dx7.php,Yamaha DX7,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_dx7_angle2.jpg,700
 http://www.vintagesynth.com/yamaha/dx9.php,Yamaha DX9,http://www.vintagesynth.com/sites/default/files/2017-05/dx9.jpg,900
 http://www.vintagesynth.com/yamaha/ex5.php,Yamaha EX5,http://www.vintagesynth.com/sites/default/files/2017-05/ex5.jpg,500
 http://www.vintagesynth.com/yamaha/ex7.php,Yamaha EX7,http://www.vintagesynth.com/sites/default/files/2017-05/ex7.jpg,700
+http://www.vintagesynth.com/yamaha/fb01.php,Yamaha FB-01,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_fb01.jpg,100
+http://www.vintagesynth.com/yamaha/fs1r.php,Yamaha FS1,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_fs1r.jpg,100
 http://www.vintagesynth.com/yamaha/gx1.php,Yamaha GX-1,http://www.vintagesynth.com/sites/default/files/2017-05/gx1.jpg,100
+http://www.vintagesynth.com/yamaha/rm1x.php,Yamaha RM1,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_rm1x.jpg,100
 http://www.vintagesynth.com/yamaha/rx5.php,Yamaha RX5,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_rx5_angle2.jpg,500
+http://www.vintagesynth.com/yamaha/su10.php,Yamaha SU10,http://www.vintagesynth.com/sites/default/files/2017-05/su10.jpg,1000
 http://www.vintagesynth.com/yamaha/tq5.php,Yamaha TQ5,http://www.vintagesynth.com/sites/default/files/2017-05/tq5.jpg,500
 http://www.vintagesynth.com/yamaha/tx7.php,Yamaha TX7,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_tx7.jpg,700
 http://www.vintagesynth.com/yamaha/tx802.php,Yamaha TX802,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_tx802.jpg,802
 http://www.vintagesynth.com/yamaha/tx816.php,Yamaha TX816,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_tx816.jpg,816
 http://www.vintagesynth.com/yamaha/w7.php,Yamaha W7,http://www.vintagesynth.com/sites/default/files/2017-05/w5.jpg,700
 http://www.vintagesynth.com/misc/mmt8.php,Alesis MMT-8,http://www.vintagesynth.com/sites/default/files/2017-05/alesis_mmt8.jpg,800
-http://www.vintagesynth.com/roland/Bosshc2.php,Boss HC-2,http://www.vintagesynth.com/sites/default/files/2017-05/Boss-hc2.jpg,200
-http://www.vintagesynth.com/roland/Bosspc2.php,Boss PC-2,http://www.vintagesynth.com/sites/default/files/2017-05/Boss_pc2.jpg,200
-http://www.vintagesynth.com/roland/syb3.php,Boss SYB-3,http://www.vintagesynth.com/sites/default/files/2017-05/syb3.jpg,300
-http://www.vintagesynth.com/roland/syb5.php,Boss SYB-5,http://www.vintagesynth.com/sites/default/files/2017-05/syb5.jpg,500
-http://www.vintagesynth.com/roland/vt1.php,Boss VT-1,http://www.vintagesynth.com/sites/default/files/2017-05/vt1.jpg,100
+http://www.vintagesynth.com/roland/bosshc2.php,BOSS HC-2,http://www.vintagesynth.com/sites/default/files/2017-05/boss-hc2.jpg,200
+http://www.vintagesynth.com/roland/bosspc2.php,BOSS PC-2,http://www.vintagesynth.com/sites/default/files/2017-05/boss_pc2.jpg,200
+http://www.vintagesynth.com/roland/syb3.php,BOSS SYB-3,http://www.vintagesynth.com/sites/default/files/2017-05/syb3.jpg,300
+http://www.vintagesynth.com/roland/syb5.php,BOSS SYB-5,http://www.vintagesynth.com/sites/default/files/2017-05/syb5.jpg,500
+http://www.vintagesynth.com/roland/vt1.php,BOSS VT-1,http://www.vintagesynth.com/sites/default/files/2017-05/vt1.jpg,100
 http://www.vintagesynth.com/casio/vl1.php,Casio VL-Tone VL-1,http://www.vintagesynth.com/sites/default/files/2017-05/vltone.jpg,100
 http://www.vintagesynth.com/misc/ms404.php,Doepfer MS-404,http://www.vintagesynth.com/sites/default/files/2017-05/ms404.jpg,404
 http://www.vintagesynth.com/misc/synthi256.php,EMS Synthi Sequencer 256,http://www.vintagesynth.com/sites/default/files/2017-05/EMS256_2sm.jpg,256
 http://www.vintagesynth.com/misc/vcs3.php,EMS VCS3,http://www.vintagesynth.com/sites/default/files/2017-05/vcs3.jpg,300
 http://www.vintagesynth.com/elka/elkasoloist505.php,Elka Soloist 505,http://www.vintagesynth.com/sites/default/files/2017-05/elkasoloist505.jpg,505
+http://www.vintagesynth.com/misc/mbase01.php,JoMoX MBase 01,http://www.vintagesynth.com/sites/default/files/2017-05/jomox_mbase01.jpg,100
+http://www.vintagesynth.com/misc/mbase11.php,JoMoX MBase 11,http://www.vintagesynth.com/sites/default/files/2017-05/jomox_mbase11.jpg,1100
+http://www.vintagesynth.com/korg/ms10.php,Korg MS-10,http://www.vintagesynth.com/sites/default/files/2017-05/ms10.jpg,1000
+http://www.vintagesynth.com/korg/sq10.php,Korg SQ-10,http://www.vintagesynth.com/sites/default/files/2017-05/sq10.jpg,1000
 http://www.vintagesynth.com/korg/x911.php,Korg X-911,http://www.vintagesynth.com/sites/default/files/2017-05/korg_x911.jpg,911
+http://www.vintagesynth.com/misc/m3x.php,MacBeth Studio Systems M3,http://www.vintagesynth.com/sites/default/files/2017-05/m3x.jpg,300
 http://www.vintagesynth.com/misc/macbethm5.php,MacBeth Studio Systems M5,http://www.vintagesynth.com/sites/default/files/2017-05/m5.jpg,500
+http://www.vintagesynth.com/misc/mamvf11.php,MAM VF-11,http://www.vintagesynth.com/sites/default/files/2017-05/mamvf11.jpg,1100
 http://www.vintagesynth.com/misc/warp9.php,MAM WARP 9,http://www.vintagesynth.com/sites/default/files/2017-05/warp9.jpg,900
 http://www.vintagesynth.com/misc/cp251.php,Moog CP-251,http://www.vintagesynth.com/sites/default/files/2017-05/moog_cp251.jpg,251
 http://www.vintagesynth.com/misc/mf101.php,Moog MF-101,http://www.vintagesynth.com/sites/default/files/2017-05/moog_mf101.jpg,101
@@ -181,18 +221,24 @@ http://www.vintagesynth.com/roland/cmu810.php,Roland CMU-810,http://www.vintages
 http://www.vintagesynth.com/roland/mc202.php,Roland MC-202,http://www.vintagesynth.com/sites/default/files/2017-05/roland_mc202.jpg,202
 http://www.vintagesynth.com/roland/promars.php,Roland ProMars MRS-2,http://www.vintagesynth.com/sites/default/files/2017-05/roland_promars_mrs2.jpg,200
 http://www.vintagesynth.com/roland/re201.php,Roland RE-201,http://www.vintagesynth.com/sites/default/files/2017-05/roland_re201.jpg,201
+http://www.vintagesynth.com/roland/saturn9.php,Roland Saturn 09,http://www.vintagesynth.com/sites/default/files/2017-05/roland_saturn09.jpg,900
+http://www.vintagesynth.com/roland/sh09.php,Roland SH-09,http://www.vintagesynth.com/sites/default/files/2017-05/roland_sh09.jpg,900
 http://www.vintagesynth.com/roland/sh1.php,Roland SH-1,http://www.vintagesynth.com/sites/default/files/2017-05/rolsh1.jpg,100
 http://www.vintagesynth.com/roland/sh101.php,Roland SH-101,http://www.vintagesynth.com/sites/default/files/2017-05/roland_sh101.jpg,101
 http://www.vintagesynth.com/roland/sh2.php,Roland SH-2,http://www.vintagesynth.com/sites/default/files/2017-05/roland_sh2.jpg,200
 http://www.vintagesynth.com/roland/sh3.php,Roland SH-3,http://www.vintagesynth.com/sites/default/files/2017-05/roland_sh3a_angle.jpg,300
 http://www.vintagesynth.com/roland/sh5.php,Roland SH-5,http://www.vintagesynth.com/sites/default/files/2017-05/roland_sh5.jpg,500
 http://www.vintagesynth.com/roland/303.php,Roland TB-303,http://www.vintagesynth.com/sites/default/files/2017-05/roland_tb303.jpg,303
+http://www.vintagesynth.com/misc/rsf_mod.php,RSF Modular Model 11,http://www.vintagesynth.com/sites/default/files/2017-05/rsf_modularmini.jpg,1100
 http://www.vintagesynth.com/misc/cyclus3.php,Spectral Audio Cyclus 3,http://www.vintagesynth.com/sites/default/files/2017-05/cyclus3.jpg,300
 http://www.vintagesynth.com/misc/atc1.php,Studio Electronics ATC-1,http://www.vintagesynth.com/sites/default/files/2017-05/studio_electronics_atc1.jpg,100
 http://www.vintagesynth.com/misc/se1.php,Studio Electronics SE-1,http://www.vintagesynth.com/sites/default/files/2017-05/se1.jpg,100
 http://www.vintagesynth.com/misc/mercury.php,TC|Works Mercury-1,http://www.vintagesynth.com/sites/default/files/2017-05/mercury1.jpg,100
 http://www.vintagesynth.com/misc/110f.php,Teisco Synthesizer 110,http://www.vintagesynth.com/sites/default/files/2017-05/110f_0.jpg,110
 http://www.vintagesynth.com/misc/willmab303.php,Will Systems MAB-303,http://www.vintagesynth.com/sites/default/files/2017-05/willmab303.jpg,303
+http://www.vintagesynth.com/yamaha/cs10.php,Yamaha CS-10,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_cs10.jpg,1000
 http://www.vintagesynth.com/yamaha/cs5.php,Yamaha CS-5,http://www.vintagesynth.com/sites/default/files/2017-05/cs5.jpg,500
+http://www.vintagesynth.com/yamaha/cs1.php,Yamaha CS01,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_cs01.jpg,100
+http://www.vintagesynth.com/yamaha/ed10.php,Yamaha ED10,http://www.vintagesynth.com/sites/default/files/2017-05/ed10.jpg,1000
 http://www.vintagesynth.com/yamaha/sy1.php,Yamaha SY-1,http://www.vintagesynth.com/sites/default/files/2017-05/yamaha_sy-1.jpg,100
 http://www.vintagesynth.com/misc/kenton_profour.php,Kenton Electronics Kenton Electronics Pro-4,http://www.vintagesynth.com/sites/default/files/2017-07/pro4.jpg,400
