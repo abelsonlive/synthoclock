@@ -47,8 +47,9 @@ class SynthOClock(object):
   def now(self):
     """
     """
-    tz = pytz.timezone(self.config['timezone'])
-    return tz.localize(datetime.utcnow())
+    dt = datetime.now()
+    dt = dt.astimezone(pytz.timezone(self.config['timezone']))
+    return dt
 
   def trigger(self):
     """
@@ -85,6 +86,7 @@ class SynthOClock(object):
   def run(self):
     """
     """
+    print("Starting clock in {timezone} with probability {probability} at {0}".format(self.now(), **self.config))
     while True:
       try:
         start = time.time()
