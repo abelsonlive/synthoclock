@@ -34,7 +34,7 @@ class SynthOClock(object):
     if key not in self.synths: return
     synth = random.choice(self.synths[key])
     synth['am_pm'] = dt.strftime('%p')
-    synth['tweet'] = "It's {name} {am_pm}.".format(**synth)
+    synth['tweet'] = "It's {name} {am_pm}.\n{url}".format(**synth)
     return synth
 
   def connect_to_twitter(self):
