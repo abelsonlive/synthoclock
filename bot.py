@@ -47,8 +47,10 @@ class SynthOClock(object):
   def now(self):
     """
     """
-    dt = datetime.now()
-    dt = dt.astimezone(pytz.timezone(self.config['timezone']))
+    dt = datetime.utcnow()
+    dt = dt.replace(tzinfo=pytz.timezone('UTC'))
+    tz = pytz.timezone(self.config['timezone'])
+    dt = dt.astimezone(tz)
     return dt
 
   def trigger(self):
