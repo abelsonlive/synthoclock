@@ -58,7 +58,7 @@ class SynthOClock(object):
     """
     return random.choice(range(0, 100)) <= self.config['probability']
 
-  def tweet(self, synth):
+  def tweet(self, synth, send=True):
 
     # download image
     filename = synth['img'].split('/')[-1]
@@ -68,7 +68,7 @@ class SynthOClock(object):
         for chunk in request:
           image.write(chunk)
       print("{time}: tweeting: {tweet}".format(**synth))
-      self.api.update_with_media(filename, status=synth['tweet'])
+      if send: self.api.update_with_media(filename, status=synth['tweet'])
       os.remove(filename)
     else:
         print("{time}: unable to download image".format(**synth))
@@ -81,7 +81,7 @@ class SynthOClock(object):
     while True:
       synth = self.synth_for_time(dt)
       if synth and self.trigger():
-        self.tweet(synth)
+        self.tweet(synth, send=False)
         time.sleep(sleep)
       dt += timedelta(minutes=1)
 
@@ -100,8 +100,7 @@ class SynthOClock(object):
         print("{time}: Error: {0}".format(e.message))
 
 if __name__ == '__main__':
-  config = yaml.safe_load(open('synthoclock.yml', 'rb'))
-  sc = SynthOClock(**config)
+  sc = SynthOClock(**yaml.safe_load(open('synthoclock.yml', 'rb')))
   if sys.argv[1] == 'simulate':
     sc.simulate()
   elif sys.argv[1] == 'run':
