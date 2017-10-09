@@ -1,5 +1,4 @@
 import os
-import yaml
 import csv
 import sys
 import time
@@ -8,6 +7,8 @@ import random
 from datetime import datetime, timedelta
 from collections import defaultdict
 
+import yaml
+import pytz
 from tweepy import OAuthHandler, API
 
 
@@ -43,6 +44,12 @@ class SynthOClock(object):
     auth.set_access_token(self.config.get('access_token'), self.config.get('access_token_secret'))
     return API(auth)
 
+  def now(self):
+    """
+    """
+    tz = pytz.timezone(self.config['timezone'])
+    return tz.localize(datetime.utcnow())
+
   def trigger(self):
     """
     """
@@ -67,7 +74,7 @@ class SynthOClock(object):
     """
     Simulate tweets
     """
-    dt = datetime.now()
+    dt = self.now()
     while True:
       synth = self.synth_for_time(dt)
       if synth and self.trigger():
@@ -80,13 +87,11 @@ class SynthOClock(object):
     """
     while True:
       try:
-        tick_start = time.time()
-        synth = self.synth_for_time(datetime.now())
+        start = time.time()
+        synth = self.synth_for_time(self.now())
         if synth and self.trigger():
           self.tweet(synth)
-        tick_end = time.time()
-        tick = 60 - (tick_end-tick_start)
-        time.sleep(tick)
+        time.sleep( 60 - (time.time()-start))
       except Exception as e:
         print("{time}: Error: {0}".format(e.message))
 
