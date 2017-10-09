@@ -82,7 +82,7 @@ class SynthOClock(object):
       try:
         tick_start = time.time()
         synth = self.synth_for_time(datetime.now())
-        if synth:
+        if synth and self.trigger():
           self.tweet(synth)
         tick_end = time.time()
         tick = 60 - (tick_end-tick_start)
